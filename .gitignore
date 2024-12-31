@@ -1,0 +1,54 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset meta files
+/[Aa]ssets/**/*.meta
+
+# User-specific files
+/[Uu]ser[Ss]ettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity cache directory
+/[Cc]ache/
+
+# Crash logs
+sysinfo.txt
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.iml
+
+# Mac OS specific
+.DS_Store
+.DS_Store?
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Linux specific
+*~
+
+# JetBrains Rider
+.idea/
+*.iml
+*.ipr
